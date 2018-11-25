@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Alaska</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://rawgit.com/jackmoore/autosize/master/dist/autosize.min.js"></script>
+  </head>
+
+  <body>
+	  <div class="background-container">
+      <header class="page-header">
+        <nav class="main-nav main-nav--opened main-nav--nojs">
+          <button class="main-nav__toggle" type="button"><span class="visually-hidden">Open menu</span></button>
+          <ul class="main-nav__list site-list">
+            <li class="site-list__item">
+              <a href="#">Home</a>
+            </li>
+            <li class="site-list__item">
+              <a href="#">About</a>
+            </li>
+            <li class="site-list__item">
+              <a href="#">Our&#160;works</a>
+            </li>
+            <li class="site-list__item site-list__item--logo">
+              <picture>
+                <img src="img/logo.png" height="26" alt="Alaska">
+              </picture>
+            </li>
+            <li class="site-list__item">
+              <a href="#">Services</a>
+            </li>
+            <li class="site-list__item">
+              <a href="#">News</a>
+            </li>
+            <li class="site-list__item site-list__item--active">
+              <a>Contacts</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+    
+      <main class="page-main">
+        <div class="page-main__container">
+          <section class="write-us">
+            <div class="write-us__wrapper">
+              <h2 class="write-us__title">Write Us</h2>
+              <form class="write-us__form" action="#" method="post">
+                <label class="write-us__label label-email-field"> Your e-mail
+                  <input class="write-us__email-field" type="email" name="e-mail" value="pecherits4@gmail.com" placeholder="Enter your e-mail">
+                </label>
+                <label class="write-us__label label-message-field"> Your message
+                  <textarea id="note" class="write-us__message-field" name="comment" placeholder="Enter your message"></textarea>
+                </label>
+                <input class="write-us__button" type="submit" value="Send your message">
+              </form>
+            </div>
+          </section>
+          <section class="contacts">
+            <div class="contacts__wrapper">
+              <h1 class="contacts__title">Contacts</h1>
+              <ul class="contacts__list">
+                <li class="contacts__list-item">
+                  <h4>Address</h4>
+                  <p>West Olympic Boulevard Apt. 100 Los Angeles, CA</p>
+                </li>
+                <li class="contacts__list-item">
+                  <h4>E-mail</h4>
+                  <p>pecherits4@gmail.com</p>
+                </li>
+                <li class="contacts__list-item">
+                  <h4>Phone</h4>
+                  <p>+30 226 4881 514</p>
+                </li>
+                <li class="contacts__list-item">
+                  <h4>Fax</h4>
+                  <p>+30 226 4881 515</p>
+                </li>
+                <li class="contacts__list-item">
+                  <h4>Skype</h4>
+                  <p>pecherits4</p>
+                </li>
+                <li class="contacts__list-item">
+                  <h4>Telegram</h4>
+                  <p>@pecherits4</p>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </div>
+      </main>
+      
+      <footer class="page-footer">
+      </footer> 
+    </div>
+    
+    <script type="text/javascript" src="js/script.js"></script>
+    <script>autosize(document.getElementById("note"));</script>
+    
+  </body>
+</html>
