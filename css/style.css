@@ -106,6 +106,7 @@ table {
 .advantages {
   position: relative;
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: #242424;
 }
 .advantages::before {
@@ -117,6 +118,8 @@ table {
   background-color: #242424;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
   z-index: 1;
+=======
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 }
@@ -181,7 +184,11 @@ table {
 	top: 0;
 	width: 50%;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	height: 300px;
+=======
+	height: 350px;
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
 	height: 350px;
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
@@ -316,7 +323,11 @@ table {
   background-color: #f8f5f2;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 /* .news::before {
+=======
+.news::before {
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
 .news::before {
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
@@ -329,7 +340,11 @@ table {
   clip-path: polygon(50% 100%, 0 0, 100% 0);
   -webkit-clip-path: polygon(50% 100%, 0 0, 100% 0);
 <<<<<<< HEAD
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
 }
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
@@ -1117,7 +1132,11 @@ table {
   background-color: transparent;
   color: transparent;
 <<<<<<< HEAD
+<<<<<<< HEAD
   height: 150px;
+=======
+  height: 100px;
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
   height: 100px;
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
@@ -1627,12 +1646,15 @@ table {
     background-color: #353535;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
   .advantages::before {
     height: 41px;
     bottom: -41px;
     width: 100%;
     background-color: #353535;
   }
+=======
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .advantages__wrapper {
@@ -1761,15 +1783,21 @@ table {
     border-bottom: 1px solid #e5ddd5;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*   .news::before {
     height: 41px;
     background-color: #353535;
   } */
 =======
+=======
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .news::before {
     height: 41px;
     background-color: #353535;
   }
+<<<<<<< HEAD
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
+=======
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .news__wrapper {
     display: flex;
@@ -2484,10 +2512,13 @@ table {
     padding-bottom: 43px;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
   .advantages::before {
     height: 63px;
     bottom: -63px;
   }
+=======
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .advantages__list {
@@ -2597,9 +2628,15 @@ table {
     padding-bottom: 32px;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*   .news::before {
     height: 63px;
   } */
+=======
+  .news::before {
+    height: 63px;
+  }
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
   .news::before {
     height: 63px;
@@ -3034,6 +3071,7 @@ table {
     display: none;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
   .reviews {
     position: relative;
   }
@@ -3053,10 +3091,15 @@ table {
   }
 /*   .page-footer::before {
 =======
+=======
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .page-footer {
     position: relative;
   }
   .page-footer::before {
+<<<<<<< HEAD
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
+=======
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
     content: "";
     position: absolute;
@@ -3067,7 +3110,11 @@ table {
     clip-path: polygon(50% 100%, 0 0, 100% 0);
     -webkit-clip-path: polygon(50% 100%, 0 0, 100% 0);
 <<<<<<< HEAD
+<<<<<<< HEAD
   } */
+=======
+  }
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 =======
   }
 >>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
