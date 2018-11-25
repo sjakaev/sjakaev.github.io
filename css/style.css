@@ -105,6 +105,7 @@ table {
 }
 .advantages {
   position: relative;
+<<<<<<< HEAD
   background-color: #242424;
 }
 .advantages::before {
@@ -116,6 +117,8 @@ table {
   background-color: #242424;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
   z-index: 1;
+=======
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 }
 .advantages__wrapper {
   width: auto;
@@ -177,7 +180,11 @@ table {
 	background-color: transparent;
 	top: 0;
 	width: 50%;
+<<<<<<< HEAD
 	height: 300px;
+=======
+	height: 350px;
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 }
 .advantages__btn-left {
   left: 0;
@@ -308,7 +315,11 @@ table {
   color: #000000;
   background-color: #f8f5f2;
 }
+<<<<<<< HEAD
 /* .news::before {
+=======
+.news::before {
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   content: "";
   position: absolute;
   top: 0;
@@ -317,7 +328,11 @@ table {
   background-color: #242424;
   clip-path: polygon(50% 100%, 0 0, 100% 0);
   -webkit-clip-path: polygon(50% 100%, 0 0, 100% 0);
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
 .news__wrapper {
   width: auto;
   padding-top: 67px;
@@ -1101,7 +1116,11 @@ table {
   top: 0;
   background-color: transparent;
   color: transparent;
+<<<<<<< HEAD
   height: 150px;
+=======
+  height: 100px;
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   cursor: default;
   border: none;
   outline: 0;
@@ -1607,12 +1626,15 @@ table {
   .advantages {
     background-color: #353535;
   }
+<<<<<<< HEAD
   .advantages::before {
     height: 41px;
     bottom: -41px;
     width: 100%;
     background-color: #353535;
   }
+=======
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .advantages__wrapper {
     padding-top: 42px;
     padding-bottom: 0;
@@ -1738,10 +1760,17 @@ table {
     padding-bottom: 28px;
     border-bottom: 1px solid #e5ddd5;
   }
+<<<<<<< HEAD
 /*   .news::before {
     height: 41px;
     background-color: #353535;
   } */
+=======
+  .news::before {
+    height: 41px;
+    background-color: #353535;
+  }
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .news__wrapper {
     display: flex;
     justify-content: space-between;
@@ -2454,10 +2483,13 @@ table {
     padding-top: 75px;
     padding-bottom: 43px;
   }
+<<<<<<< HEAD
   .advantages::before {
     height: 63px;
     bottom: -63px;
   }
+=======
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .advantages__list {
     display: table;
     width: 100%;
@@ -2564,9 +2596,15 @@ table {
     padding-top: 120px;
     padding-bottom: 32px;
   }
+<<<<<<< HEAD
 /*   .news::before {
     height: 63px;
   } */
+=======
+  .news::before {
+    height: 63px;
+  }
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .news__title {
     margin-left: 70px;
   }
@@ -2995,6 +3033,7 @@ table {
   .btn--home {
     display: none;
   }
+<<<<<<< HEAD
   .reviews {
     position: relative;
   }
@@ -3013,6 +3052,12 @@ table {
     position: relative;
   }
 /*   .page-footer::before {
+=======
+  .page-footer {
+    position: relative;
+  }
+  .page-footer::before {
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
     content: "";
     position: absolute;
     top: 0;
@@ -3021,7 +3066,11 @@ table {
     background-color: #f8f5f2;
     clip-path: polygon(50% 100%, 0 0, 100% 0);
     -webkit-clip-path: polygon(50% 100%, 0 0, 100% 0);
+<<<<<<< HEAD
   } */
+=======
+  }
+>>>>>>> 2a2b8646d2a3099fb1492116cc613d69fca367f5
   .page-footer--inner-photo::before {
     background-color: #353535;
   }
