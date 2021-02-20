@@ -251,6 +251,9 @@ header nav a:hover {
 header.smaller #mainmenu ul ul {
 	top: 0px;
 }
+header.header-mobile .social-icons {
+	display: none;
+}
 header.smaller {
 	background: rgba(0, 0, 0, .8);
 	position: fixed;
@@ -715,6 +718,10 @@ header .header-col.mid .social-icons{
 	color:#fff;
 	margin-left:20px;
 }
+
+header.header-mobile #menu-btn {
+	margin-top: -10px;
+}
 #menu-btn:before {
 	font-family: FontAwesome;
 	content: "\f0c9";
@@ -972,6 +979,9 @@ header.header-mobile .logo {
 header.header-mobile .btn-rsvp {
 	padding-top: 40px;
 	height: 90px;
+}
+header.header-mobile {
+	height: 80px;
 }
 header.header-mobile .logo-2 {
 	display: inline-block;
